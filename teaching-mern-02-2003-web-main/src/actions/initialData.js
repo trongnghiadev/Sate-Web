@@ -1,4 +1,3 @@
-// trungquandev.com
 export const initialData = {
   boards: [
     {
@@ -16,7 +15,7 @@ export const initialData = {
               boardId: 'board-1',
               columnId: 'column-1',
               title: 'Title of card 1',
-              cover: 'https://trungquandev.com/wp-content/uploads/2021/01/trungquandev-avatar-2021.jpg'
+              cover: 'https://trongnghiadev.com/wp-content/uploads/2021/01/trongnghiadev-avatar-2021.jpg'
             },
             { id: 'card-2', boardId: 'board-1', columnId: 'column-1', title: 'Title of card 2', cover: null },
             { id: 'card-3', boardId: 'board-1', columnId: 'column-1', title: 'Title of card 3', cover: null },

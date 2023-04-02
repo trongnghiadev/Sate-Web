@@ -135,7 +135,7 @@ function Column(props) {
       <div className="card-list">
         <Container
           orientation="vertical" // default
-          groupName="trungquandev-columns"
+          groupName="trongnghiadev-columns"
           onDrop={dropResult => onCardDrop(column._id, dropResult)}
           getChildPayload={index => cards[index]}
           dragClass="card-ghost"

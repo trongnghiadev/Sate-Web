@@ -136,7 +136,7 @@ function ActiveCardModal() {
                   <img
                     src={currentActiveCard?.cover}
                     className="card__modal__cover__img"
-                    alt="trungquandev-alt-img"
+                    alt="trongnghiadev-alt-img"
                   />
                 </Col>
               </Row>

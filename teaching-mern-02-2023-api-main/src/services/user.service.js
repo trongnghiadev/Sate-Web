@@ -19,7 +19,6 @@ const createNew = async (data) => {
     }
 
     // Tạo data user để lưu vào DB
-    // nameFromEmail: nếu email là trungquandev@gmail.com thì sẽ lấy được "trungquandev"
     const nameFromEmail = data.email.split('@')[0] || ''
     const userData = {
       email: data.email,

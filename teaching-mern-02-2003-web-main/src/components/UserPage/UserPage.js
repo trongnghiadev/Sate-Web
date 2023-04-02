@@ -239,7 +239,6 @@ const UserPage = () => {
               <div className="notice mt-5">
                 <h4>System Settings</h4>
                 <div className="notice__message">
-                  <p>This is an awesome <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong/" target="blank" style={{ 'textDecoration': 'none' }}>Sate Web</a> in the field of programming. This course teach everyone how to create a Trello web app clone.</p>
                   <p>To learn more, view our <a href="#" target="blank" style={{ 'textDecoration': 'none' }}>Terms of Service</a> or <a href="#" target="blank" style={{ 'textDecoration': 'none' }}>Privacy Policy</a>.</p>
                   <p>Author: <strong>Group 9</strong></p>
                   <p>Source: <a href="https://github.com/trongnghiadev/Sate-Web" target="blank" style={{ 'textDecoration': 'none' }}>https://github.com/trongnghiadev/Sate-Web</a></p>
@@ -256,7 +255,6 @@ const UserPage = () => {
               <div className="notice mt-5">
                 <h4>Any Questions?</h4>
                 <div className="notice__message">
-                  <p>This is an awesome <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong/" target="blank" style={{ 'textDecoration': 'none' }}>State</a> in the field of programming. This course teach everyone how to create a Trello web app clone.</p>
                   <p>To learn more, view our <a href="#" target="blank" style={{ 'textDecoration': 'none' }}>Terms of Service</a> or <a href="#" target="blank" style={{ 'textDecoration': 'none' }}>Privacy Policy</a>.</p>
                   <p>Author: <strong>Group 9</strong></p>
                   <p>Source: <a href="https://github.com/trongnghiadev/Sate-Web" target="blank" style={{ 'textDecoration': 'none' }}>https://github.com/trongnghiadev/Sate-Web</a></p>

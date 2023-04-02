@@ -19,7 +19,7 @@ function Card(props) {
         <img
           src={card.cover}
           className="card-cover"
-          alt="trungquandev-alt-img"
+          alt="trongnghiadev-alt-img"
           onMouseDown={e => e.preventDefault()}
         />
       }
