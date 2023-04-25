@@ -42,8 +42,12 @@ Author: Trọng Nghĩa
 
 Thanks for watching!
 
-Demo![screencapture-localhost-3000-b-6411d2e7a61ef143905737c1-2023-04-25-18_33_51](https://user-images.githubusercontent.com/108291735/234264422-af963d2a-ccae-4745-91be-35ecbcc7a905.png)![screencapture-localhost-3000-u-testchucnang02-2023-04-25-18_34_09](https://user-images.githubusercontent.com/108291735/234264429-be509a0b-7671-4c30-a610-7489a52ca740.png)
-![screencapture-localhost-3000-sig![screencapture-localhost-3000-u-testchucnang02-boards-2023-04-25-18_32_49](https://user-images.githubusercontent.com/108291735/234264415-91e4f525-377e-4498-a998-82a59637a533.png)
-nIn-2023-04![screencapture-localhost-3000-signUp-2023-04-25-18_30_41](https://user-images.githubusercontent.com/108291735/234264409-58634e6b-c871-4542-b9a4-cfe7e046f417.png)
--25-18_30_22](https://user-images.githubusercontent.com/108291735/234264387-37d4fb32-a632-4b5f-a1ec-e40c3c517612.png)
+Demo
+![screencapture-localhost-3000-u-testchucnang02-2023-04-25-18_34_09](https://user-images.githubusercontent.com/108291735/234264624-4f1d39fe-c659-4c7c-b538-d5ad23539062.png)
+![screencapture-localhost-3000-b-6411d2e7a61ef143905737c1-2023-04-25-18_33_51](https://user-images.githubusercontent.com/108291735/234264669-7a7dafe8-53e4-4846-9d6c-ede4ed48041b.png)
+![screencapture-localhost-3000-u-testchucnang02-boards-2023-04-25-18_32_49](https://user-images.githubusercontent.com/108291735/234264688-f8c8aed1-c74b-44db-a6d4-5317140b27c6.png)
+![screencapture-localhost-3000-signUp-2023-04-25-18_30_41](https://user-images.githubusercontent.com/108291735/234264718-9e14ff8b-e532-4437-9efd-e155c30974b8.png)
+![screencapture-localhost-3000-signIn-2023-04-25-18_30_22](https://user-images.githubusercontent.com/108291735/234264742-15b69be0-6977-4527-a203-8d964c4535f1.png)
+
+
 
